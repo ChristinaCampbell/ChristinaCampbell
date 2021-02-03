@@ -1,8 +1,8 @@
 ## Christina Campbell
 
-# Header 1
+# Social Links
 
-[GitHub](http://github.com)
+[Linked In](https://www.linkedin.com/in/christina-c-31512219/)
 
 
 ## Header 2

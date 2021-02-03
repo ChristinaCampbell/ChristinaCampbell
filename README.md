@@ -1,7 +1,7 @@
 ## Christina Campbell
 
 # Header 1
-http://github.com - automatic!
+
 [GitHub](http://github.com)
 
 

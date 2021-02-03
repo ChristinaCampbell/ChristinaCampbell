@@ -1,6 +1,6 @@
-## Christina Campbell
+# Christina Campbell
 
-# Social Links
+## Social Links
 
 [Linked In](https://www.linkedin.com/in/christina-c-31512219/)
 

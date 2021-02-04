@@ -2,13 +2,12 @@
 
 ## ABOUT
 
-    ### CV
+ ### CV
 
-    ### Social Links
+ ### Social Links
      [LinkedIn](https://www.linkedin.com/in/christina-c-31512219/)
      
      [Twitter](https://twitter.com/jinxc6/)                                                                 
-
 
 ## PAPERS
 

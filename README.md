@@ -2,6 +2,7 @@
 
 ### Social Links
 [Twitter](https://twitter.com/jinxc6/)
+
 [LinkedIn](https://www.linkedin.com/in/christina-c-31512219/)
 
 ## CV

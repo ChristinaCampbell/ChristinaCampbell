@@ -6,8 +6,11 @@
 
 [Twitter](https://twitter.com/jinxc6/)
 
+## Papers
 
-## Header 2
+## Knowledge Mining
+
+
 ### Header 3
 
 - Bulleted
@@ -16,11 +19,5 @@
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 
 ### Jekyll Themes
-

@@ -1,7 +1,7 @@
 ## *Christina A Campbell, M.A.*
 
 ## ABOUT
-
+ 
  ### CV
 
  ### Social Links
@@ -17,7 +17,3 @@
 3. Lab 3
 4. Lab 4
 5. Lab 5
-
-### Header 3
-
-### Jekyll Themes

@@ -5,9 +5,9 @@
  ### CV
 
  ### Social Links
-     [LinkedIn](https://www.linkedin.com/in/christina-c-31512219/)
+   [LinkedIn](https://www.linkedin.com/in/christina-c-31512219/)
      
-     [Twitter](https://twitter.com/jinxc6/)                                                                 
+   [Twitter](https://twitter.com/jinxc6/)                                                                 
 
 ## PAPERS
 
@@ -19,12 +19,5 @@
 5. Lab 5
 
 ### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
 
 ### Jekyll Themes

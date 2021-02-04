@@ -1,16 +1,21 @@
 # Christina A Campbell, M.A.
 
-## Social Links
-
+### Social Links
+[Twitter](https://twitter.com/jinxc6/)
 [LinkedIn](https://www.linkedin.com/in/christina-c-31512219/)
 
-## [ABOUT]
+## CV
 
+## ABOUT
 
-## Papers
+## PAPERS
 
-## Knowledge Mining
-
+## KNOWLEDGE MINING
+1. Lab 1
+2. Lab 2
+3. Lab 3
+4. Lab 4
+5. Lab 5
 
 ### Header 3
 

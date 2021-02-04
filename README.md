@@ -2,7 +2,7 @@
 
 ## ABOUT
  
-### [CV](ChristinaCampbell/ChristinaCampbell/blob/main/Campbell%2C%20Christina%20%20vitae.pdf)
+### [CV](ChristinaCampbell/ChristinaCampbell/blob/main/Campbell%2C%20Christina%20%20vitae.pdf?raw=true)
 
 ### Social Links
    [LinkedIn](https://www.linkedin.com/in/christina-c-31512219/)

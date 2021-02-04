@@ -1,8 +1,9 @@
-## Christina A Campbell, M.A.
+## *Christina A Campbell, M.A.*
 
 #### Social Links
-[Twitter](https://twitter.com/jinxc6/)                                                                 [LinkedIn](https://www.linkedin.com/in/christina-c-31512219/)
+[Twitter](https://twitter.com/jinxc6/)                                                                 
 
+[LinkedIn](https://www.linkedin.com/in/christina-c-31512219/)
 
 
 ## CV

@@ -2,7 +2,7 @@
 
 ## ABOUT
  
- ### CV
+ ### [CV](Campbell, Christina  vitae.pdf)
 
  ### Social Links
    [LinkedIn](https://www.linkedin.com/in/christina-c-31512219/)
